@@ -4,7 +4,7 @@
 
 This pipeline downloads Sentinel-1 IW SLC (Single Look Complex) data, processes all 3 sub-swaths (IW1+IW2+IW3) into geocoded C2 covariance matrices, runs 5 dual-pol polarimetric decomposition indices, and generates publication-ready visualizations and time series charts.
 
-Developed for **crop monitoring** in Battambang Province, Cambodia — but works for any AOI worldwide.
+Developed for **crop monitoring** 
 
 ![Master Chart Example](images/master_chart.png)
 
